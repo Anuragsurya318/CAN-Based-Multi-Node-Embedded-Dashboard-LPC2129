@@ -77,9 +77,14 @@ A real-time, multi-node **CAN-based dashboard system** built on the **ARM7 LPC21
 
 ## 📷 Sample LCD Layout
 
+lcd_display:
+  line_1: "TIME: 14:23:05"
+  line_2: "DATE: 02/04/2025 (Wed)"
+  line_3: "TEMP: 28.5°C     ⬅️ ➡️"
+  line_4:
+    fuel_bar: "█████"
+    fuel_percentage: "85%"
 
-> - Custom characters are dynamically loaded into **CGRAM**
-> - Arrows and fuel bars animate in real time!
 
 ---
 
