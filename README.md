@@ -118,9 +118,9 @@ FUEL: █████       85%
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Anurag Suryawanshi**  
 Embedded Systems Developer  
-[GitHub](https://github.com/your_username) | [LinkedIn](https://linkedin.com/in/your_username)
+[GitHub](https://github.com/Anuragsurya318) | [LinkedIn](https://linkedin.com/in/anurag-suryawanshi-40a3b420b)
 
 ---
 
