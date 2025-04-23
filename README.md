@@ -79,7 +79,7 @@ A real-time, multi-node **CAN-based dashboard system** built on the **ARM7 LPC21
 
 ### 📟 LCD Dashboard Display Snapshot
 
-<div style="width: fit-content; margin: auto; background: #f6f8fa; padding: 10px; border-radius: 6px; box-shadow: 0 0 5px rgba(0,0,0,0.1); font-family: monospace;">
+<div style="width: 20px; margin: auto; background: #f6f8fa; padding: 10px; border-radius: 6px; box-shadow: 0 0 5px rgba(0,0,0,0.1); font-family: monospace;">
 
 <pre>
 TIME: 14:23:05      
